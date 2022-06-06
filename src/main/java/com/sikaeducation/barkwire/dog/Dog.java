@@ -22,5 +22,8 @@ public class Dog {
 
   @Column(name = "breed")
   private String breed;
+  
+  
+
 }
 
